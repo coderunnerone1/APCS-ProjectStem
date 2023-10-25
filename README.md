@@ -2,6 +2,9 @@
 
 # APCSA Project Stem
 
+CREDIT TO ORIGINAL AUTHOR
+I WILL UPDATE OUTDATED CODE IF YOU MAKE A ISSUE
+
 Source code to various units of the 2022-23 AP Computer Science A course on Project Stem.
 
 > **Note**  
@@ -26,9 +29,8 @@ A user-friendly website front-end is available [here](https://ricky8k.github.io/
 
 ## 📝 Contributing
 
-Notice a typo or error? Feel free to create an [issue](https://github.com/ricky8k/APCSA-ProjectStem/issues/new)!
-
-Please note that support will **not** be provided for code that does not work in newer lessons.
+Create an issue if the code does not work, I will provide support for the code only if you create an issue, 
+Please also create an issue if the code is outdated, I am providing support for the new code
 
 ## 📜 License
 
