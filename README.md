@@ -2,13 +2,14 @@
 
 # APCSA Project Stem
 
-CREDIT TO ORIGINAL AUTHOR
-I WILL UPDATE OUTDATED CODE IF YOU MAKE A ISSUE
+# CREDIT TO ORIGINAL AUTHOR
+# I WILL UPDATE OUTDATED CODE IF YOU MAKE A ISSUE
 
 Source code to various units of the 2022-23 AP Computer Science A course on Project Stem.
 
 > **Note**  
 > This repository serves as a key to solve difficult problems on Project Stem and is intended to work with the 2023 AP CS A course. *These solutions may grow out-of-date as new changes are made to the course every year.*
+> Also Project Stem has edit history, I do not recommend copy and pasting code from here, but if you do, copy and paste it in chunks to make it look like you actually did it in the edit history
 
 ## 🌐 Website
 
