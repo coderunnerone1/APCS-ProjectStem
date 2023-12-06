@@ -1,3 +1,7 @@
+/* CODE IS BROKEN
+  the code will fail the formatting unit test, however the assignment does not give a propper format for the formatting, if someone does have the code, feel free to make a pull request!
+  CODE IS BROKEN
+  */
 public class Rectangle
 {
   // Create Variables
