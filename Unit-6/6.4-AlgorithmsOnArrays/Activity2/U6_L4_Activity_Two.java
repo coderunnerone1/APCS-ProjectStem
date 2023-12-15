@@ -5,7 +5,7 @@ public class U6_L4_Activity_Two
     if (i >= 0 && j >= 0)
     {
       int[] tempNum = {arr[i], arr[j]};
-      // Write to arr
+
       arr[i] = tempNum[1];
       arr[j] = tempNum[0];
     }
@@ -18,7 +18,7 @@ public class U6_L4_Activity_Two
     {
       tempArr[i] = arr[(arr.length - 1) - i];
     }
-    // Write to arr
+
     for (int i = 0; i < tempArr.length; i++)
     {
       arr[i] = tempArr[i];
