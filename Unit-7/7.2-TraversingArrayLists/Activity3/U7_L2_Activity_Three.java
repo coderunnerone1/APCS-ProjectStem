@@ -4,7 +4,6 @@ public class U7_L2_Activity_Three
 {
   public static ArrayList<Integer> getEvens(ArrayList<Integer> vals)
   {
-    // Check for Even Nums in vals
     ArrayList<Integer> even = new ArrayList<Integer>();
     for (int i = 0; i < vals.size(); i++)
     {
@@ -14,7 +13,6 @@ public class U7_L2_Activity_Three
       }
     }
     
-    // End
     return even;
   }
 }
