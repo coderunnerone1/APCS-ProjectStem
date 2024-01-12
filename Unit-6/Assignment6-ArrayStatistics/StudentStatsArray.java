@@ -1,5 +1,3 @@
-// this document is differnet from the original repo, this is for the 2023-2024 project stem lessons
-// the tostring method is incorrect in rickys repo!
 
 public class StudentStatsArray 
 {
